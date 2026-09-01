@@ -69,7 +69,7 @@ As a one-person studio, BadutZY Studio does not follow a traditional team pipeli
 
 <div align="center">
 
-<a href="https://github.com/BadutZY">
+<a href="https://badutzy.vercel.app">
   <img src="foto/BadutZY.png" height="100">
 </a>
 
