@@ -38,7 +38,8 @@ Working solo comes with its own challenges, but it also means every decision, ev
 <div align="center">
 
   **TrashCollectorGame**
-  <a href="trashcollector.vercel.app">
+  
+  <a href="https://trashcollector.vercel.app">
     <img src="foto/games/trash-collector.png" height="300">
   </a>
 
