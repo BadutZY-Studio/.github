@@ -35,7 +35,14 @@ Working solo comes with its own challenges, but it also means every decision, ev
 
 ## Our Games
 
-*(This list will be updated as projects are released. TBA)*
+<div align="center">
+
+  **TrashCollectorGame**
+  <a href="trashcollector.vercel.app">
+    <img src="foto/games/trash-collector.png" height="300">
+  </a>
+
+</div>
 
 ---
 
